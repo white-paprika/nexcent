@@ -171,6 +171,7 @@ h4 {
 }
 .mob-menu__link {
   display: block;
+  font-family: "Inter-SemiBold";
   padding: 12px 16px;
   border-radius: 8px;
   color: gray;
