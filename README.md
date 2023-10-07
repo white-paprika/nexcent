@@ -1,4 +1,4 @@
-#Adaptive | Slider | Mobile menu
+# Adaptive | Slider | Mobile menu
 <ul>
   <li>Mobile: 480px </li>
   <li>Tablet: 768px</li>
